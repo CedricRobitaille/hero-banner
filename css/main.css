@@ -7,9 +7,10 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
+.banner-content {
   position: absolute;
   top:0;
+  display: inline-block;
   max-width: 50em;
   padding: 1rem;
 }
